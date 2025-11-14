@@ -28,7 +28,7 @@ const Hero = () => {
                 <Calendar className="mr-2 h-5 w-5" />
                 Book Appointment
               </Button>
-              <Button size="lg" variant="outline" className="border-white text-white hover:bg-white hover:text-primary transition-all">
+              <Button size="lg" variant="outline" className="border-white text-primary hover:bg-white/90 hover:text-primary transition-all">
                 <MapPin className="mr-2 h-5 w-5" />
                 Find Pharmacy
               </Button>

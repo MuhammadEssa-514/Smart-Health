@@ -33,6 +33,9 @@ const Navbar = () => {
             <a href="#offline" className="text-foreground hover:text-primary transition-colors">
               Offline
             </a>
+            <a href="#contact" className="text-foreground hover:text-primary transition-colors">
+              Contact Us
+            </a>
           </div>
 
           {/* Desktop CTA */}
@@ -90,6 +93,13 @@ const Navbar = () => {
               onClick={() => setIsOpen(false)}
             >
               Offline
+            </a>
+              <a
+              href="#contact"
+              className="block py-2 text-foreground hover:text-primary transition-colors"
+              onClick={() => setIsOpen(false)}
+            >
+              Countact Us
             </a>
             <a
               href="#providers"

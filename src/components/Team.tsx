@@ -8,35 +8,35 @@ import teamMember5 from "@/assets/team-member-5.jpg";
 const Team = () => {
   const teamMembers = [
     {
-      name: "Dr. Ahmed Hassan",
+      name: "Dr. Jan Alam",
       role: "Chief Medical Officer",
       image: teamMember1,
       email: "ahmed@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "Sarah Johnson",
+      name: "Dr. Tatheer",
       role: "Operations Director",
       image: teamMember2,
       email: "sarah@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "Michael Chen",
+      name: "Dr Shakir",
       role: "Technology Lead",
       image: teamMember3,
       email: "michael@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "Dr. Fatima Ali",
+      name: "Dr. Sana",
       role: "Clinical Coordinator",
       image: teamMember4,
       email: "fatima@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "David Wilson",
+      name: "Dr Narjis",
       role: "Business Development",
       image: teamMember5,
       email: "david@smarthealth.com",

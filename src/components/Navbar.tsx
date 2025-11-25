@@ -33,6 +33,10 @@ const Navbar = () => {
             <a href="#offline" className="text-foreground hover:text-primary transition-colors">
               Offline
             </a>
+             
+              <a href="#companyteam" className="text-foreground hover:text-primary transition-colors">
+              CompanyTeam
+            </a>
             <a href="#contact" className="text-foreground hover:text-primary transition-colors">
               Contact Us
             </a>
@@ -93,6 +97,14 @@ const Navbar = () => {
               onClick={() => setIsOpen(false)}
             >
               Offline
+            </a>
+           
+             <a
+              href="#companyteam"
+              className="block py-2 text-foreground hover:text-primary transition-colors"
+              onClick={() => setIsOpen(false)}
+            >
+               CompanyTeam
             </a>
               <a
               href="#contact"

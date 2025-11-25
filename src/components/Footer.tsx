@@ -79,7 +79,7 @@ const Footer = () => {
             </p>
             <div className="flex space-x-6 text-sm">
                <a href="#" className="text-background/80 hover:text-background transition-colors">Team Members</a>
-               <a href="#" className="text-background/80 hover:text-background transition-colors">Muhammad Essa</a>
+               <a href="https://muhammadessa-514.github.io/My-Personal-Portfolio/" className="text-background/80 hover:text-background transition-colors">Muhammad Essa</a>
               <a href="#" className="text-background/80 hover:text-background transition-colors">Masooma</a>
               <a href="#" className="text-background/80 hover:text-background transition-colors">Nazia</a>
               <a href="#" className="text-background/80 hover:text-background transition-colors">Ahmar</a>

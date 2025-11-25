@@ -57,15 +57,15 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center space-x-2 text-background/80">
                 <Mail className="h-4 w-4" />
-                <span>info@smarthealth.com</span>
+                <span>muhammadessa1514@gmail.com</span>
               </li>
               <li className="flex items-center space-x-2 text-background/80">
                 <Phone className="h-4 w-4" />
-                <span>+1 (555) 123-4567</span>
+                <span>+923194944514</span>
               </li>
               <li className="flex items-center space-x-2 text-background/80">
                 <MapPin className="h-4 w-4" />
-                <span>123 Health St, Medical City</span>
+                <span>Smart Health ,Nagaral near Airport Road Gilgit</span>
               </li>
             </ul>
           </div>
@@ -78,9 +78,16 @@ const Footer = () => {
               © 2024 Smart Health. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm">
+               <a href="#" className="text-background/80 hover:text-background transition-colors">Team Members</a>
+               <a href="#" className="text-background/80 hover:text-background transition-colors">Muhammad Essa</a>
+              <a href="#" className="text-background/80 hover:text-background transition-colors">Masooma</a>
+              <a href="#" className="text-background/80 hover:text-background transition-colors">Nazia</a>
+              <a href="#" className="text-background/80 hover:text-background transition-colors">Ahmar</a>
+              <a href="#" className="text-background/80 hover:text-background transition-colors">Atif</a>
               <a href="#" className="text-background/80 hover:text-background transition-colors">Privacy Policy</a>
               <a href="#" className="text-background/80 hover:text-background transition-colors">Terms of Service</a>
               <a href="#" className="text-background/80 hover:text-background transition-colors">Cookie Policy</a>
+             
             </div>
           </div>
         </div>

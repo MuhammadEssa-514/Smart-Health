@@ -1,18 +1,14 @@
-# Welcome to your Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/62603579-8b45-49fa-b248-70e4eedaeb94
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/62603579-8b45-49fa-b248-70e4eedaeb94) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+Changes made via custom will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -61,8 +57,6 @@ This project is built with:
 - Tailwind CSS
 
 ## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/62603579-8b45-49fa-b248-70e4eedaeb94) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 

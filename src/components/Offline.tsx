@@ -56,7 +56,7 @@ const Offline = () => {
   ];
 
   return (
-    <section id="Offline" className="py-16 md:py-24 bg-background">
+    <section id="offline" className="py-16 md:py-24 bg-background">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-12 md:mb-16">

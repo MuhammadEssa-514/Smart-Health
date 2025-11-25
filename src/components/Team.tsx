@@ -1,45 +1,45 @@
 import { Linkedin, Mail } from "lucide-react";
-import teamMember1 from "@/assets/team-member-1.jpg";
-import teamMember2 from "@/assets/team-member-2.jpg";
-import teamMember3 from "@/assets/team-member-3.jpg";
-import teamMember4 from "@/assets/team-member-4.jpg";
-import teamMember5 from "@/assets/team-member-5.jpg";
+import teamMember1 from "@/assets/Dr Muhammad.jpeg";
+import teamMember2 from "@/assets/dr fazal manan.jpg";
+import teamMember3 from "@/assets/doctor imran.jpeg";
+import teamMember4 from "@/assets/dr firoz.jpg";
+import teamMember5 from "@/assets/dr sana.jpg";
 
 const Team = () => {
   const teamMembers = [
     {
-      name: "Dr. Jan Alam",
+      name: "Dr. Muhammad",
       role: "Chief Medical Officer",
       image: teamMember1,
-      email: "ahmed@smarthealth.com",
+      email: "muhammad@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "Dr. Tatheer",
+      name: "Dr. fazal manan",
       role: "Operations Director",
       image: teamMember2,
-      email: "sarah@smarthealth.com",
+      email: "manan@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "Dr Shakir",
+      name: "Dr Imran",
       role: "Technology Lead",
       image: teamMember3,
-      email: "michael@smarthealth.com",
+      email: "imran@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "Dr. Sana",
+      name: "Dr. firoz",
       role: "Clinical Coordinator",
       image: teamMember4,
-      email: "fatima@smarthealth.com",
+      email: "firoz@smarthealth.com",
       linkedin: "#"
     },
     {
-      name: "Dr Narjis",
+      name: "Dr sana",
       role: "Business Development",
       image: teamMember5,
-      email: "david@smarthealth.com",
+      email: "sana@smarthealth.com",
       linkedin: "#"
     }
   ];
@@ -49,7 +49,7 @@ const Team = () => {
       <div className="container mx-auto">
         <div className="text-center mb-16 animate-fade-in">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
-            Meet Our Team
+            Meet With Famous Doctors
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
             Dedicated professionals working together to revolutionize healthcare accessibility

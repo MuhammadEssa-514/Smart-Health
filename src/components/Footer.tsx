@@ -72,25 +72,28 @@ const Footer = () => {
         </div>
 
         {/* Bottom Bar */}
-        <div className="border-t border-background/20 pt-8">
-          <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-background/80 text-sm">
-              © 2024 Smart Health. All rights reserved.
-            </p>
-            <div className="flex space-x-6 text-sm">
-               <a href="#" className="text-background/80 hover:text-background transition-colors">Team Members</a>
-               <a href="https://muhammadessa-514.github.io/My-Personal-Portfolio/" className="text-background/80 hover:text-background transition-colors">Muhammad Essa</a>
-              <a href="#" className="text-background/80 hover:text-background transition-colors">Masooma</a>
-              <a href="#" className="text-background/80 hover:text-background transition-colors">Nazia</a>
-              <a href="#" className="text-background/80 hover:text-background transition-colors">Ahmar</a>
-              <a href="#" className="text-background/80 hover:text-background transition-colors">Atif</a>
-              <a href="#" className="text-background/80 hover:text-background transition-colors">Privacy Policy</a>
-              <a href="#" className="text-background/80 hover:text-background transition-colors">Terms of Service</a>
-              <a href="#" className="text-background/80 hover:text-background transition-colors">Cookie Policy</a>
-             
-            </div>
-          </div>
-        </div>
+      <div className="border-t border-background/20 pt-8">
+  <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+    
+    <p className="text-background/80 text-sm text-center md:text-left">
+      © 2024 Smart Health. All rights reserved.
+    </p>
+
+    <div className="flex flex-wrap justify-center md:justify-end gap-4 text-sm">
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Team Members</a>
+      <a href="https://muhammadessa-514.github.io/My-Personal-Portfolio/" className="text-background/80 hover:text-background transition-colors">Muhammad Essa</a>
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Masooma</a>
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Nazia</a>
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Ahmar</a>
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Atif</a>
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Privacy Policy</a>
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Terms of Service</a>
+      <a href="#" className="text-background/80 hover:text-background transition-colors">Cookie Policy</a>
+    </div>
+
+  </div>
+</div>
+
       </div>
     </footer>
   );
